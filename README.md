@@ -4,6 +4,9 @@ Love 60% keyboards that use the QMK firmware? Need media controls and arrow keys
 ## The Layout
 A standard 60% layout with the POK3R's arrow key functionality. Caps lock is now a function key, meaning you can use CAPSLOCK + I/J/K/L to move the cursor up, left, down, and right respectively.
 
+## Kinda finicky?
+Keys swapped or just not working? You might have your keyboard in the wrong behavior. To reset this (not the firmware, just the behavior) hold SPACE + BACKSPACE while you plug in your keyboard.
+
 #### Firmware Keys
 CAPSLOCK + \ = RESET
 
