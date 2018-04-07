@@ -1,13 +1,13 @@
 # QMKFirmwareForCode
 Love 60% keyboards that use the QMK firmware? Need media controls and arrow keys? Feel free to use my custom solution!
 
-## The layout
+## The Layout
 A standard 60% layout with the POK3R's arrow key functionality. Caps lock is now a function key, meaning you can use CAPSLOCK + I/J/K/L to move the cursor up, left, down, and right respectively.
 
 #### Firmware Keys
 CAPSLOCK + \ = RESET
 
-#### Function keys
+#### Function Keys
 CAPSLOCK + 1 = F1
 
 CAPSLOCK + 2 = F2
@@ -32,7 +32,7 @@ CAPSLOCK + - = F11
 
 CAPSLOCK + + = F12
 
-#### Media controls
+#### Media Controls
 CAPSLOCK + Q = Last media track
 
 CAPSLOCK + W = Pause media track
@@ -57,6 +57,13 @@ CAPSLOCK + N = Decrease saturation
 CAPSLOCK + M = Increase brightness
 
 CAPSLOCK + , = Decrease brightness
+
+### Misc Controls
+CAPS + ESC = \`
+
+SHIFT + ESC = ~
+
+CAPS + P = PrintScr
 
 ## Where do I put this folder?
 Put it under your keyboard's directory in your QMK folder. For example, mine is: `C:\Users\Ryan\Desktop\qmk-qmk_firmware-4cb7907\keyboards\dz60\keymaps\QMKCode`.
