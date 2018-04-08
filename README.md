@@ -68,6 +68,8 @@ SHIFT + ESC = ~
 
 CAPS + P = PrintScr
 
+CAPS + H = Home
+
 ## Where do I put this folder?
 Put it under your keyboard's directory in your QMK folder. For example, mine is: `C:\Users\Ryan\Desktop\qmk-qmk_firmware-4cb7907\keyboards\dz60\keymaps\QMKCode`.
 
