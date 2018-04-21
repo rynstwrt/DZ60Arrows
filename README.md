@@ -1,6 +1,9 @@
 # QMKFirmwareForCode
 Love 60% keyboards that use the QMK firmware? Need media controls and arrow keys? Feel free to use my custom solution!
 
+## QMK-Firmware
+This is a keymap for the DZ60 PCB written in C for QMK. You must install QMK Firmware from [here](https://github.com/qmk/qmk_firmware) first. 
+
 ## The Layout
 A standard 60% layout with the POK3R's arrow key functionality. Caps lock is now a function key, meaning you can use CAPSLOCK + I/J/K/L to move the cursor up, left, down, and right respectively.
 
