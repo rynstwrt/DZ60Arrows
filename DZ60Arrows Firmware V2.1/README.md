@@ -1,4 +1,4 @@
-# DZ60Arrows Firmware V2
+# DZ60Arrows Firmware V2.1
 
 <br>
 
