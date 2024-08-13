@@ -11,7 +11,7 @@ Custom DZ60 Keyboard PCB Firmware. Written by Ryn.
 ## How to Use:
 
 > ### Notes:
-> - **Layer 0** (regular keyboard with no function keys pressed) is standard, except that the Caps Lock key and the key to the right of the OS key are function keys.
+> - **Layer 0** (regular keyboard with no modifier keys pressed) is standard, except that the Caps Lock key and the key to the right of the OS key are function keys.
 > 
 > 
 > - **Layer 1** is accessed by pressing and holding a function key.
@@ -19,7 +19,45 @@ Custom DZ60 Keyboard PCB Firmware. Written by Ryn.
 
 <br>
 
-*\[More info coming soon\]*
+
+### Arrow Key Keybinds:
+| **FUNCTION** | **KEYBIND** | 
+|:-------------|:-----------:|
+| Up Arrow     | Mod key + I |  
+| Down Arrow   | Mod key + K |  
+| Left Arrow   | Mod key + J |
+| Right Arrow  | Mod key + L |
+
+
+<br>
+
+### General Keybinds:
+| **FUNCTION** |             **KEYBIND**             | 
+|:-------------|:-----------------------------------:|
+| Caps Lock    |         Mod key + Caps Lock         |  
+| Delete       |         Mod Key + Backspace         |
+| Print Screen |             Mod key + P             |
+| Home         | Mod key + H <br>*OR*<br>Mod key + ; |  
+| End          |             Mod Key + .             |
+| Page Up      |             Mod key + '             |
+| Page Down    |             Mod key + /             |
+
+<br>
+
+### Media Keybinds:
+| **FUNCTION** | **KEYBIND** | 
+|:-------------|:-----------:|
+| Play/Pause   | Mod key + W |  
+| Previous     | Mod Key + Q |
+| Next         | Mod key + E |
+| Volume Up    | Mod key + ] |  
+| Volume Down  | Mod Key + [ |
+
+
+<br>
+
+### LED Keybinds:
+Coming soon.
 
 
 <br>
@@ -30,7 +68,7 @@ Custom DZ60 Keyboard PCB Firmware. Written by Ryn.
 > ### Each folder contains:
 > - The .hex file needed to flash the firmware
 >
-> 
+>
 > - A .json file to be used with [QMK Configurator](https://config.qmk.fm/#/dz60/LAYOUT_60_ansi) to make edits
 >
 >
