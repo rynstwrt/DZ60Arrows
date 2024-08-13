@@ -35,6 +35,7 @@ Custom DZ60 Keyboard PCB Firmware. Written by Ryn.
 ### General Keybinds:
 | **FUNCTION** |             **KEYBIND**             | 
 |:-------------|:-----------------------------------:|
+| F[1-12]      |        Mod key + [0-9, -, =]        |
 | Caps Lock    |         Mod key + Caps Lock         |  
 | Delete       |         Mod Key + Backspace         |
 | Print Screen |             Mod key + P             |
@@ -42,6 +43,8 @@ Custom DZ60 Keyboard PCB Firmware. Written by Ryn.
 | End          |             Mod Key + .             |
 | Page Up      |             Mod key + '             |
 | Page Down    |             Mod key + /             |
+| ` character  |          Mod key + Escape           |
+| ~ character  |      Mod key + Shift + Escape       |
 
 <br>
 
