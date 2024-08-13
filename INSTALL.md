@@ -16,7 +16,7 @@
 
 
 > 5. ### Put your keyboard into DFU mode.
->    * On a DZ60 this is usually done by pressing and holding the button on the back.
+>    * On a DZ60 this is usually done by pressing the button on the back of the PCB.
 
 
 > 6. ### Click the Flash button.
