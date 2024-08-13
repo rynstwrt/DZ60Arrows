@@ -61,7 +61,16 @@ Custom DZ60 Keyboard PCB Firmware. Written by Ryn.
 <br>
 
 ### LED Keybinds:
-Coming soon.
+| **FUNCTION** | **KEYBIND** | 
+|:-------------|:-----------:|
+| RGB Toggle   | Mod key + Z |  
+| RGB Mode +   | Mod Key + X |
+| Hue -        | Mod key + C |
+| Hue +        | Mod key + V |  
+| Saturation - | Mod Key + B |
+| Saturation + | Mod Key + N |
+| Brightness - | Mod Key + M |
+| Brightness + | Mod Key + , |
 
 
 <br>
