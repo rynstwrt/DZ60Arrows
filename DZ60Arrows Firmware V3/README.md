@@ -1,19 +1,16 @@
 # DZ60Arrows Firmware V3
 
-#### (COMING SOON) 
-.𖥔 ݁ ˖ ✦ ‧₊˚ ⋅ 
+<br>
 
-<!-- <br> -->
-
-<!-- ## Layer 0:
-![Layer 0](screenshots/layer0.png)
+## Layer 0:
+![Layer 0](screenshots/layer0.jpg)
 
 <br>
 
 ## Layer 1:
-![Layer 1](screenshots/layer1.png)
+![Layer 1](screenshots/layer1.jpg)
 
 <br>
 
 ## Layer 2:
-![Layer 2](screenshots/layer2.png) -->
+![Layer 2](screenshots/layer2.jpg)
