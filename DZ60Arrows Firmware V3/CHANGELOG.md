@@ -1,5 +1,7 @@
 # Changelog For V3
 
+<br>
+
 - Replaced the Escape key with the backtick with the version without.
     - This is so keybinds like `CTRL+SHIFT+ESC` stlil work despite using the mod key.
 
